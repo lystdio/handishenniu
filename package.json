@@ -1,0 +1,22 @@
+{
+  "name": "handishenniu",
+  "version": "1.0.0",
+  "description": "测试创建npm仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lystdio/npmRepTest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Lion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lystdio/npmRepTest/issues"
+  },
+  "homepage": "https://github.com/lystdio/npmRepTest#readme"
+}
